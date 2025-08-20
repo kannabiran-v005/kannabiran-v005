@@ -1,4 +1,4 @@
-# 👋 Hi, I'm kannabiranv
+# 👋 Hi, I'm Kannabiran v
 
 > Just figuring things out. One bug at a time.
 
@@ -7,13 +7,12 @@
 ## 🏫 About Me
 - 🎓 IIIT Kottayam, CSE 2nd Year  
 - 💻 Coding daily, lifting regularly  
-- 🚀 Learning backend + AI + cloud
+- 🚀 Learning backend 
 
 ---
 
 ## 🧠 Current Focus
-- Building real-world apps using Python + Flask  
-- Training ML models with Vertex AI  
+- Practicing model training in ML with Tensorflow
 - Strengthening DSA  
 - Gaining muscle 🏋 (not just skills 😅)
 
@@ -22,7 +21,7 @@
 ## 🛠 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ### 📚 Frameworks & Libraries  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
