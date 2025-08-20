@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kannabiran v
+# 👋 Hi, I'm Kannabiran V
 
 > Just figuring things out. One bug at a time.
 
