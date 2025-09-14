@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 Current Focus
-- Practicing model training in ML with Tensorflow
+- Practicing model training in ML
 - Strengthening DSA  
 - Gaining muscle 🏋 (not just skills 😅)
 
