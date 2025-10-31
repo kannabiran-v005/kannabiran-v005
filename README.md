@@ -6,7 +6,7 @@
 
 ## 🏫 About Me
 - 🎓 IIIT Kottayam, CSE 2nd Year  
-- 💻 Coding daily, lifting regularly  
+- 💻 Coding daily  
 - 🚀 Learning backend 
 
 ---
@@ -14,7 +14,6 @@
 ## 🧠 Current Focus
 - Practicing model training in ML
 - Strengthening DSA  
-- Gaining muscle 🏋 (not just skills 😅)
 
 ---
 
