@@ -12,11 +12,9 @@ DSA • DBMS • Operating Systems • Computer Networks • OOAD • Machine Le
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kannabiran-v005&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannabiran-v005&layout=compact&theme=radical)
 
 ---
-
-⭐ *"Consistency beats intensity. Keep learning, keep building."*
