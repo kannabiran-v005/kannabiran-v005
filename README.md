@@ -2,7 +2,7 @@
 
 3rd-year **B.Tech CSE** student at **IIIT Kottayam**, passionate about **Machine Learning**, **full-stack development**, and **problem solving**.
 
-I build AI-powered tools and graph-based applications, and I practice DSA regularly.
+I build AI-powered tools and graph-based applications.
 
 ---
 
